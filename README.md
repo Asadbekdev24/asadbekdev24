@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello everyone 👋
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
@@ -30,12 +30,12 @@
 ---
 
 ### :technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
+- :telescope: I’m learning english, russian language and flutter framework.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Creating useful apps.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on Leetcode and read some book at Mutolaa.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username/)
 
@@ -59,9 +59,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :tada: Good News :
-- Recently completed a major project on web application development.
-- Achieved a new certification in Full Stack Development.
-- Surpassed 1000 commits on GitHub.
+- I learned how to use Hive, Google Map, Shared Prefens, Bloc, Provider, Riverpod.
+
 
 <!--
 **Asadbekdev24/asadbekdev24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
